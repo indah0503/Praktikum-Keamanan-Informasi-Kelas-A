@@ -29,4 +29,6 @@ Serangan ransomware menyebabkan downtime, kebocoran data, pencurian kekayaan int
 
 # **`Analisis dan Pembahasan Praktikum njRAT`**
 
-njRAT adalah salah satu aplikasi yang digunakan untuk mengontrol komputer korban menggunakan file aplikasi tipuan yang dikirim kepada dan dibuka oleh korban. Pada pertemuan ke-3 ini praktikan membuat aplikasi berisi malware terlebih dahulu menggunakan aplikasi njRAT. Langkah - langkah untuk membuatnya telah tersedia pada file pdf 
+njRAT adalah salah satu aplikasi yang digunakan untuk mengontrol komputer korban menggunakan file aplikasi tipuan yang dikirim kepada dan dibuka oleh korban. Pada pertemuan ke-3 ini praktikan membuat aplikasi berisi malware terlebih dahulu menggunakan aplikasi njRAT. Langkah - langkah untuk membuatnya telah tersedia pada https://github.com/indah0503/Pertemuan-3/blob/d45114f48610e10a061fdc5ad188ec65fb13df5a/LAP-3_478139_Indah%20Sekar%20Ningrum_P.KI1_RI4AA.pdf.
+
+Untuk analisis apakah pada file yang dibuka terdapat malware atau tidak, praktikan menggunakan website VirusTotal, VirSCAN, Jotti, dan PolySwarm.
