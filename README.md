@@ -1,4 +1,6 @@
-# **Pertemuan-5**
-# _**IP dan Enterprise Services Vulnerability**_
+# **Pertemuan-7**
+# **_Footprinting_ dan _Scanning_**
 
-> Pada praktikum pertemuan ini, kita menggunakan VM CyberOps Workstation dan VM Security Union. CyberOps Workstation digunakan untuk mengetahui detail aliran TCP pada objek HTTP terpilih, sementara Security Union digunakan untuk mengetahui serangan injeksi SQL sesuai jangka waktu yang diatur pada HTTP lalu mengetahui username penyerang HTTP dan pada DNS untuk mengetahui data queri, klien, dan server DNS. Langkah-langkah melakukannya secara lebih detail telah tertera pada dokumen lampiran.
+> Langkah - langkah pada praktikum ini telah tersedia pada file pdf yang terlampir.
+
+> Penjelasan pada nomor 17 Footprinting dimana terminal menjalankan perintah hosts, terjadi kesalahan penulisan hingga berbeda hasil keluaran yang dilakukan oleh terminal, hasil yang benar adalah tabel hosts dengan kolom IP address, MAC address, nama, nama OS, os_flavor, os_sp, purpose, info, dan comments yang mana kolom os_flavor masih kosong dikarenakan Nmap belum mengumpulkan informasi os_flavor.
